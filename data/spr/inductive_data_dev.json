@@ -1,0 +1,602 @@
+[
+    {
+        "id": "3_3-seq-744_743",
+        "context": "Given the following sequence,\n['4', '5', '2', '8', '9', '6', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "24"
+    },
+    {
+        "id": "5_5-seq-219_218",
+        "context": "Given the following sequence,\n['4', '2', '-1', '0', '0', '0', '-2', '-5', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-4"
+    },
+    {
+        "id": "2_2-seq-249_248",
+        "context": "Given the following sequence,\n['4', '1', '2', '1', '2', '1', '2', '1', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "2"
+    },
+    {
+        "id": "3_3-seq-335_334",
+        "context": "Given the following sequence,\n['2', '1', '-3', '-2', '-3', '-7', '-6', '-7', '-11', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-10"
+    },
+    {
+        "id": "3_3-seq-506_505",
+        "context": "Given the following sequence,\n['1', '-3', '-1', '-2', '-6', '-4', '-5', '-9', '-7', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-8"
+    },
+    {
+        "id": "2_2-seq-390_389",
+        "context": "Given the following sequence,\n['2', '1', '2', '1', '2', '1', '2', '1', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "2"
+    },
+    {
+        "id": "3_3-seq-435_434",
+        "context": "Given the following sequence,\n['2', '4', '16', '14', '28', '112', '110', '220', '880', '878', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "1756"
+    },
+    {
+        "id": "2_2-seq-580_579",
+        "context": "Given the following sequence,\n['2', '4', '8', '10', '14', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "16"
+    },
+    {
+        "id": "1_1-seq-860_859",
+        "context": "Given the following sequence,\n['1', '3', '9', '27', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "81"
+    },
+    {
+        "id": "1_1-seq-614_613",
+        "context": "Given the following sequence,\n['3', '9', '27', '81', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "243"
+    },
+    {
+        "id": "4_4-seq-859_858",
+        "context": "Given the following sequence,\n['5', '7', '10', '14', '10', '12', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "15"
+    },
+    {
+        "id": "1_1-seq-221_220",
+        "context": "Given the following sequence,\n['10', '9', '10', '9', '10', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "9"
+    },
+    {
+        "id": "2_2-seq-108_107",
+        "context": "Given the following sequence with a missing term,\n[1, 2, 3, '?', 5, 6, 7, 8]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "5_5-seq-530_529",
+        "context": "Given the following sequence,\n['3', '9', '11', '44', '42', '46', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "138"
+    },
+    {
+        "id": "4_4-seq-393_392",
+        "context": "Given the following sequence,\n['1', '4', '0', '-3', '-9', '-36', '-40', '-43', '-129', '-516', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-520"
+    },
+    {
+        "id": "1_1-seq-588_587",
+        "context": "Given the following sequence,\n['3', '6', '12', '24', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "48"
+    },
+    {
+        "id": "5_5-seq-310_309",
+        "context": "Given the following sequence,\n['4', '6', '12', '14', '18', '21', '23', '46', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "48"
+    },
+    {
+        "id": "1_1-seq-703_702",
+        "context": "Given the following sequence,\n['10', '9', '12', '11', '14', '13', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "16"
+    },
+    {
+        "id": "5_5-seq-659_658",
+        "context": "Given the following sequence,\n['4', '6', '2', '-1', '-2', '2', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "1_1-seq-362_361",
+        "context": "Given the following sequence,\n['7', '6', '8', '7', '9', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "8"
+    },
+    {
+        "id": "1_1-seq-261_260",
+        "context": "Given the following sequence,\n['3', '4', '5', '6', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "7"
+    },
+    {
+        "id": "1_1-seq-831_830",
+        "context": "Given the following sequence,\n['3', '7', '11', '15', '19', '23', '27', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "31"
+    },
+    {
+        "id": "1_1-seq-759_758",
+        "context": "Given the following sequence,\n['3', '5', '7', '9', '11', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "13"
+    },
+    {
+        "id": "4_4-seq-146_145",
+        "context": "Given the following sequence,\n['1', '2', '4', '5', '7', '8', '16', '17', '19', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "20"
+    },
+    {
+        "id": "1_1-seq-829_828",
+        "context": "Given the following sequence,\n['2', '4', '8', '16', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "32"
+    },
+    {
+        "id": "2_2-seq-500_499",
+        "context": "Given the following sequence with a missing term,\n[5, 7, 9, 11, 13, '?', 17]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "15"
+    },
+    {
+        "id": "5_5-seq-658_657",
+        "context": "Given the following sequence,\n['2', '4', '2', '-2', '-6', '-10', '-20', '-22', '-26', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-30"
+    },
+    {
+        "id": "5_5-seq-291_290",
+        "context": "Given the following sequence,\n['5', '3', '6', '3', '2', '6', '4', '8', '5', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "3_3-seq-622_621",
+        "context": "Given the following sequence,\n['4', '5', '20', '18', '19', '76', '74', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "75"
+    },
+    {
+        "id": "3_3-seq-733_732",
+        "context": "Given the following sequence,\n['1', '3', '5', '7', '9', '11', '13', '15', '17', '19', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "21"
+    },
+    {
+        "id": "3_3-seq-293_292",
+        "context": "Given the following sequence,\n['3', '-1', '-3', '1', '-3', '-5', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-1"
+    },
+    {
+        "id": "3_3-seq-672_671",
+        "context": "Given the following sequence,\n['1', '4', '3', '5', '20', '19', '21', '84', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "83"
+    },
+    {
+        "id": "4_4-seq-746_745",
+        "context": "Given the following sequence,\n['1', '-1', '-3', '-6', '-10', '-12', '-36', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-72"
+    },
+    {
+        "id": "3_3-seq-450_449",
+        "context": "Given the following sequence,\n['3', '0', '0', '1', '-2', '-6', '-5', '-8', '-24', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-23"
+    },
+    {
+        "id": "3_3-seq-559_558",
+        "context": "Given the following sequence,\n['3', '6', '5', '9', '18', '17', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "21"
+    },
+    {
+        "id": "5_5-seq-785_784",
+        "context": "Given the following sequence,\n['4', '0', '0', '2', '-2', '-1', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-5"
+    },
+    {
+        "id": "5_5-seq-498_497",
+        "context": "Given the following sequence,\n['1', '5', '7', '10', '9', '7', '11', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "13"
+    },
+    {
+        "id": "5_5-seq-853_852",
+        "context": "Given the following sequence,\n['2', '-1', '0', '0', '-3', '-9', '-12', '-11', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-33"
+    },
+    {
+        "id": "2_2-seq-38_37",
+        "context": "Given the following sequence,\n['4', '8', '9', '13', '14', '18', '19', '23', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "24"
+    },
+    {
+        "id": "5_5-seq-152_151",
+        "context": "Given the following sequence,\n['5', '6', '24', '27', '54', '51', '52', '208', '211', '422', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "419"
+    },
+    {
+        "id": "2_2-seq-403_402",
+        "context": "Given the following sequence,\n['2', '4', '7', '9', '12', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "14"
+    },
+    {
+        "id": "3_3-seq-20_19",
+        "context": "Given the following sequence,\n['1', '-3', '-9', '-8', '-12', '-36', '-35', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-39"
+    },
+    {
+        "id": "4_4-seq-807_806",
+        "context": "Given the following sequence,\n['2', '6', '8', '11', '22', '26', '28', '31', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "62"
+    },
+    {
+        "id": "3_3-seq-287_286",
+        "context": "Given the following sequence,\n['1', '4', '7', '14', '56', '59', '118', '472', '475', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "950"
+    },
+    {
+        "id": "5_5-seq-537_536",
+        "context": "Given the following sequence,\n['3', '6', '10', '8', '32', '30', '60', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "64"
+    },
+    {
+        "id": "2_2-seq-803_802",
+        "context": "Given the following sequence with a missing term,\n[4, 7, 10, '?', 16, 19, 22]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "13"
+    },
+    {
+        "id": "4_4-seq-40_39",
+        "context": "Given the following sequence,\n['4', '2', '-2', '-8', '-11', '-13', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-17"
+    },
+    {
+        "id": "1_1-seq-754_753",
+        "context": "Given the following sequence,\n['1', '4', '7', '10', '13', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "16"
+    },
+    {
+        "id": "2_2-seq-672_671",
+        "context": "Given the following sequence,\n['5', '7', '9', '11', '13', '15', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "17"
+    },
+    {
+        "id": "5_5-seq-872_871",
+        "context": "Given the following sequence,\n['1', '-2', '0', '2', '5', '15', '12', '14', '16', '19', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "57"
+    },
+    {
+        "id": "1_1-seq-204_203",
+        "context": "Given the following sequence,\n['4', '8', '12', '16', '20', '24', '28', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "32"
+    },
+    {
+        "id": "2_2-seq-527_526",
+        "context": "Given the following sequence with a missing term,\n[4, 7, 10, 13, '?', 19]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "16"
+    },
+    {
+        "id": "5_5-seq-445_444",
+        "context": "Given the following sequence,\n['2', '6', '7', '14', '16', '48', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "52"
+    },
+    {
+        "id": "3_3-seq-16_15",
+        "context": "Given the following sequence,\n['1', '5', '20', '16', '20', '80', '76', '80', '320', '316', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "320"
+    },
+    {
+        "id": "4_4-seq-723_722",
+        "context": "Given the following sequence,\n['4', '3', '9', '27', '25', '24', '72', '216', '214', '213', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "639"
+    },
+    {
+        "id": "3_3-seq-230_229",
+        "context": "Given the following sequence,\n['5', '15', '16', '19', '57', '58', '61', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "183"
+    },
+    {
+        "id": "1_1-seq-894_893",
+        "context": "Given the following sequence,\n['5', '6', '7', '8', '9', '10', '11', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "12"
+    },
+    {
+        "id": "3_3-seq-623_622",
+        "context": "Given the following sequence,\n['4', '3', '6', '4', '3', '6', '4', '3', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "6"
+    },
+    {
+        "id": "1_1-seq-205_204",
+        "context": "Given the following sequence,\n['2', '8', '32', '128', '512', '2048', '8192', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "32768"
+    },
+    {
+        "id": "4_4-seq-11_10",
+        "context": "Given the following sequence,\n['3', '5', '10', '14', '56', '58', '116', '120', '480', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "482"
+    },
+    {
+        "id": "2_2-seq-212_211",
+        "context": "Given the following sequence with a missing term,\n[3, '?', 5, 6, 7, 8, 9]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "1_1-seq-137_136",
+        "context": "Given the following sequence,\n['5', '4', '6', '5', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "7"
+    },
+    {
+        "id": "5_5-seq-552_551",
+        "context": "Given the following sequence,\n['2', '-1', '-4', '-12', '-24', '-26', '-29', '-116', '-348', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-696"
+    },
+    {
+        "id": "1_1-seq-133_132",
+        "context": "Given the following sequence,\n['5', '8', '11', '14', '17', '20', '23', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "26"
+    },
+    {
+        "id": "1_1-seq-713_712",
+        "context": "Given the following sequence,\n['2', '4', '8', '16', '32', '64', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "128"
+    },
+    {
+        "id": "4_4-seq-832_831",
+        "context": "Given the following sequence,\n['4', '6', '4', '7', '28', '30', '28', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "31"
+    },
+    {
+        "id": "1_1-seq-816_815",
+        "context": "Given the following sequence,\n['3', '9', '27', '81', '243', '729', '2187', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "6561"
+    },
+    {
+        "id": "4_4-seq-291_290",
+        "context": "Given the following sequence,\n['5', '2', '1', '2', '4', '1', '0', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "0"
+    },
+    {
+        "id": "2_2-seq-670_669",
+        "context": "Given the following sequence,\n['5', '8', '11', '14', '17', '20', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "23"
+    },
+    {
+        "id": "2_2-seq-467_466",
+        "context": "Given the following sequence with a missing term,\n[2, 3, 4, 5, '?', 7]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "6"
+    },
+    {
+        "id": "2_2-seq-756_755",
+        "context": "Given the following sequence,\n['3', '1', '4', '2', '8', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "4_4-seq-215_214",
+        "context": "Given the following sequence,\n['1', '4', '8', '16', '48', '192', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "384"
+    },
+    {
+        "id": "3_3-seq-306_305",
+        "context": "Given the following sequence,\n['2', '6', '24', '20', '60', '240', '236', '708', '2832', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "2828"
+    },
+    {
+        "id": "5_5-seq-268_267",
+        "context": "Given the following sequence,\n['2', '-2', '2', '-2', '-5', '-6', '-10', '-6', '-10', '-13', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-14"
+    },
+    {
+        "id": "1_1-seq-513_512",
+        "context": "Given the following sequence,\n['2', '1', '2', '1', '2', '1', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "2"
+    },
+    {
+        "id": "1_1-seq-444_443",
+        "context": "Given the following sequence,\n['3', '9', '27', '81', '243', '729', '2187', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "6561"
+    },
+    {
+        "id": "5_5-seq-811_810",
+        "context": "Given the following sequence,\n['5', '1', '4', '5', '3', '0', '-4', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-16"
+    },
+    {
+        "id": "4_4-seq-339_338",
+        "context": "Given the following sequence,\n['5', '2', '5', '20', '80', '77', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "80"
+    },
+    {
+        "id": "2_2-seq-490_489",
+        "context": "Given the following sequence with a missing term,\n[3, '?', 5, 6, 7, 8, 9, 10]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "1_1-seq-524_523",
+        "context": "Given the following sequence,\n['3', '12', '48', '192', '768', '3072', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "12288"
+    },
+    {
+        "id": "5_5-seq-487_486",
+        "context": "Given the following sequence,\n['3', '-1', '-5', '-4', '-2', '-4', '-8', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-12"
+    },
+    {
+        "id": "1_1-seq-842_841",
+        "context": "Given the following sequence,\n['2', '8', '32', '128', '512', '2048', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "8192"
+    },
+    {
+        "id": "3_3-seq-162_161",
+        "context": "Given the following sequence,\n['4', '16', '20', '17', '68', '72', '69', '276', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "280"
+    },
+    {
+        "id": "2_2-seq-614_613",
+        "context": "Given the following sequence with a missing term,\n[1, 3, 5, 7, '?', 11, 13]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "9"
+    },
+    {
+        "id": "3_3-seq-527_526",
+        "context": "Given the following sequence,\n['2', '6', '2', '3', '9', '5', '6', '18', '14', '15', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "45"
+    },
+    {
+        "id": "4_4-seq-152_151",
+        "context": "Given the following sequence,\n['5', '3', '0', '-4', '-12', '-14', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-17"
+    },
+    {
+        "id": "1_1-seq-833_832",
+        "context": "Given the following sequence,\n['1', '4', '16', '64', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "256"
+    },
+    {
+        "id": "1_1-seq-32_31",
+        "context": "Given the following sequence,\n['9', '6', '7', '4', '5', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "2"
+    },
+    {
+        "id": "4_4-seq-506_505",
+        "context": "Given the following sequence,\n['5', '7', '11', '7', '6', '8', '12', '8', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "7"
+    },
+    {
+        "id": "1_1-seq-522_521",
+        "context": "Given the following sequence,\n['2', '4', '8', '16', '32', '64', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "128"
+    },
+    {
+        "id": "4_4-seq-154_153",
+        "context": "Given the following sequence,\n['4', '0', '-4', '-3', '-4', '-8', '-12', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "-11"
+    },
+    {
+        "id": "2_2-seq-708_707",
+        "context": "Given the following sequence,\n['3', '1', '3', '1', '3', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "1"
+    },
+    {
+        "id": "5_5-seq-523_522",
+        "context": "Given the following sequence,\n['4', '12', '9', '11', '12', '48', '144', '141', '143', '144', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "576"
+    },
+    {
+        "id": "1_1-seq-631_630",
+        "context": "Given the following sequence,\n['1', '3', '9', '27', '81', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "243"
+    },
+    {
+        "id": "2_2-seq-347_346",
+        "context": "Given the following sequence,\n['2', '4', '6', '8', '10', '12', '14', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "16"
+    },
+    {
+        "id": "2_2-seq-452_451",
+        "context": "Given the following sequence,\n['5', '1', '4', '1', '4', '1', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "4_4-seq-280_279",
+        "context": "Given the following sequence,\n['1', '2', '4', '8', '24', '25', '50', '100', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "300"
+    },
+    {
+        "id": "2_2-seq-820_819",
+        "context": "Given the following sequence with a missing term,\n[2, '?', 6, 8, 10, 12, 14, 16]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "4"
+    },
+    {
+        "id": "3_3-seq-674_673",
+        "context": "Given the following sequence,\n['2', '4', '3', '6', '12', '11', '22', '44', '43', '?']\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "86"
+    },
+    {
+        "id": "2_2-seq-445_444",
+        "context": "Given the following sequence with a missing term,\n[3, 5, '?', 9, 11, 13]\nWhat is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "question": "Based on the sequence above, what is the value at the question mark? Please enclose the answer in <answer><answer>, and put all the intermediate reasoning steps in <think><think>.",
+        "answer": "7"
+    }
+]

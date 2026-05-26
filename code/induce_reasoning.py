@@ -196,8 +196,8 @@ def get_dataset(dataset_name: str):
                 id_dict[story_id] += 1
             id_list.append(f"{story_id}_{id_dict[story_id]}")
     
-    elif dataset_name == "number_array":
-        with open("inductive/number_array/inductive_data_test.json", 'r') as f:
+    elif dataset_name == "spr":
+        with open("data/spr/inductive_data_test.json", 'r') as f:
             data_list = json.load(f)
         for i in range(len(data_list)):
             question = "\nQuestion: " + data_list[i]["context"].split(", and")[0] + "."
@@ -207,8 +207,8 @@ def get_dataset(dataset_name: str):
             reasoning_types.append("inductive")
             id_list.append(data_list[i]["id"])
 
-    elif dataset_name == "number_array_train":
-        with open("inductive/number_array/inductive_data_train.json", 'r') as f:
+    elif dataset_name == "spr_train":
+        with open("data/spr/inductive_data_train.json", 'r') as f:
             data_list = json.load(f)
         for i in range(len(data_list)):
             question = "\nQuestion: " + data_list[i]["context"].split(", and")[0] + "."
@@ -219,7 +219,7 @@ def get_dataset(dataset_name: str):
             id_list.append(data_list[i]["id"])
 
     elif "anli" in dataset_name:
-        this_df = pd.read_csv(f"abductive/anli/{dataset_name}.csv")
+        this_df = pd.read_csv(f"data/anli/{dataset_name}.csv")
         for i in range(len(this_df)):
             questions.append("\nQuestion: " + this_df["question"][i] + "\nPlease enclose the answer in <answer></answer>.")
             gold_answer_list.append(this_df["answer"][i].lower())
@@ -227,7 +227,7 @@ def get_dataset(dataset_name: str):
             id_list.append(this_df["id"][i])
 
     elif "recv" in dataset_name:
-        data_df = pd.read_csv(f"mix/RECV/{dataset_name}.csv")
+        data_df = pd.read_csv(f"data/RECV/{dataset_name}.csv")
 
         for i in range(len(data_df)):
             question = data_df["question"][i] + "\nPlease enclose the answer in <answer></answer>."
@@ -322,7 +322,7 @@ def is_correct(response: str, gold_answer: str, dataset_name: str = "recv") -> i
         else:
             return 0
     
-    elif dataset_name == "number_array" or dataset_name == "number_array_train":
+    elif dataset_name == "spr" or dataset_name == "spr_train":
         answer_match = re.search(r'<answer>(.*?)</answer>|<answer>(.*?)<answer>', response, re.DOTALL)
 
         if answer_match:

@@ -1,0 +1,501 @@
+id,question,answer,reasoning_type
+b08aad06-c3ba-4143-8955-a1042b79e9cc-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Emma was looking forward to the sleepover at her friend's house.
+Story ending: She then remembered that she took it off at the sleepover.
+Options: Afterwards Emma couldn't find her phone.
+Emma looked for her hair tie.",Emma looked for her hair tie.,abductive
+372ff07d-e518-469f-b63c-75c5be06b709-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Emily couldn't find her shoes.
+Story ending: Ella was pretending to be Mommy by wearing Mommy's shoes.
+Options: Emily heard singing from the other room.
+Ella found mom's shoes instead.",Ella found mom's shoes instead.,abductive
+5696f553-fe93-4bfc-b610-af8429f70828-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: The tail light went out on my car.
+Story ending: Fixed it myself at home.
+Options: I didn't think it was too big of a problem.
+I stopped to get a hair dye.",I didn't think it was too big of a problem.,abductive
+e17cee1f-dd5e-4084-a0aa-4348b2cfdca5-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Timmy requested a pirate themed birthday party.
+Story ending: All the kids at the party had fun playing with their safe weapons.
+Options: Timmy's parents bought jungle theme supplies for the party.
+Timmy's mother bought plastic swords for all of the children.",Timmy's mother bought plastic swords for all of the children.,abductive
+963d3ae8-43ee-424f-afd2-9d225624201f-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Toni had trouble sleeping.
+Story ending: She had the best sleep she had in a long time.
+Options: Toni drank some tea and went to bed late.
+Toni went for a long run before bed.",Toni went for a long run before bed.,abductive
+474ae700-bac6-408a-89ec-e5fb1ef29c58-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Todd picked up his mail at the post office.
+Story ending: Todd was thankful he waited, because there was a check inside.
+Options: Todd was getting impatient and left the long line.
+Todd saw the long line, and thought about going home.","Todd saw the long line, and thought about going home.",abductive
+43b667c1-82de-4e81-9177-1b53e36ef2b0-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Darren cooked pancakes for himself and his girlfriend.
+Story ending: They agreed to put fresh fruit on their pancakes instead.
+Options: Darren and his girlfriend were out of syrup.
+Darren and his girlfriend ran out of fresh fruit.",Darren and his girlfriend were out of syrup.,abductive
+6897f3b4-82cd-4e37-8a24-c60b83cc06e5-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Jim was on the bus with his backpack.
+Story ending: He had to take the bag home and wash it right away.
+Options: A little kid in its mom's lap threw up on Jim's backpack.
+Jim noticed his box lunch had spilled in his backpack.",A little kid in its mom's lap threw up on Jim's backpack.,abductive
+e4ad0eb1-ed43-4f41-923c-8f1b272570ef-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Harry went to the sock every day to relax and watch the sunset.
+Story ending: He talked with her instead and made a good friend.
+Options: Harry met no one at the sock.
+Harry saw a girl he liked.",Harry saw a girl he liked.,abductive
+f6a82618-36c0-4fed-936e-6a0d9cec78aa-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Jimmy's birthday was coming up.
+Story ending: Jimmy's mom realized she had made a mistake.
+Options: Jimmy's mom bought ten candles but he was turning eleven.
+He got a lego set which he really wanted.",Jimmy's mom bought ten candles but he was turning eleven.,abductive
+8f01fca1-2c9e-408f-bbf5-09bc8d38382d-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: He always hated climbing rope in gym class.
+Story ending: But as he hung from a cliff by a vine he marveled at the irony.
+Options: However this time he tried pull ups and he enjoyed it.
+He was forced to do it though, and apparently the training had helped.","He was forced to do it though, and apparently the training had helped.",abductive
+9669f392-85d9-45e8-8dc5-2b3d93b897ac1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Frankie was in love with a distant, aloof man.
+Story ending: Frankie went to see a movie.
+Options: The aloof man Frankie is in love with asked her to go away.
+He never wanted to go out with her.",He never wanted to go out with her.,abductive
+a7c0a7c7-be5f-43ff-8dbf-80f63cf2d705-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Lisa was having her first ice skating competition today.
+Story ending: Finally at the end of the event, she won a medal.
+Options: Lisa had trained hard and did her best.
+Lisa did not train enough but did her best.",Lisa had trained hard and did her best.,abductive
+d366fcc6-50d6-4ef3-9cad-5a87534ee11c-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Helen wanted to play baseball like her big brother.
+Story ending: Now Helen and any girl can play baseball with the boys!
+Options: Helen played baseball lousier than all of the boys.
+Helen played baseball better than all of the boys.",Helen played baseball better than all of the boys.,abductive
+aefbd6e7-3f22-4b31-b6b7-aa59e6bcff6e-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I had a dog named Skip.
+Story ending: Skip was always more careful when he was running around after that.
+Options: Skip fell into the pool when he wasn't watching where he was going.
+Skip got run over by a car.",Skip fell into the pool when he wasn't watching where he was going.,abductive
+d013d64f-7baa-490d-8147-4c7ca5aca354-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Lou's favorite part of Easter was getting chocolate bunnies.
+Story ending: He had always gotten the Lou's leftover bunnies to eat.
+Options: Lou's brother always showed up late to Easter dinner.
+Lou didn't enjoy them much.",Lou's brother always showed up late to Easter dinner.,abductive
+a31092f3-5948-4de6-be36-f07a76895f7f2,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Sarah had never been on a boat before.
+Story ending: She loved every minute of it.
+Options: Sarah's friend took her out to a movie.
+She boat tickets for the boat.",She boat tickets for the boat.,abductive
+3af89f8e-d7bc-45d4-9e29-2e08c0705818-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Kelly and I were having lunch at a local restaurant.
+Story ending: She had to starve herself throughout the day since she had no money.
+Options: Kelly ordered a water.
+Kelly lost her keys and had no spares.",Kelly ordered a water.,abductive
+27907363-0796-48e6-a6bd-dc76f13eaca7-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Bob bought a ring for his girlfriend Sally.
+Story ending: Sally was excited to tell everyone her romantic engagement story.
+Options: He planned an elaborate and romantic proposal, but she said no.
+Bob proposed on the beach.",Bob proposed on the beach.,abductive
+3e2aa312-48d8-47c1-a936-f604d38a1c39-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Timmy was excited that his brothers had all gone to school.
+Story ending: Timmy could not wait until tomorrow, when playtime would reoccur.
+Options: Timmy took Mom to a play place near the cemetary.
+He had a blast having the whole house to himself and playing all day.",He had a blast having the whole house to himself and playing all day.,abductive
+22236427-0d25-4d1c-9dd9-ba32e487283f-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: The clouds are covering the sky today.
+Story ending: The rainy day is not fun.
+Options: We were supposed to go to the fair.
+It started to rain and people got dry.",We were supposed to go to the fair.,abductive
+f86fcc2d-e9b5-4bbb-9267-8adaa7fd505e-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Gina forgot she had broken her windshield wiper blades.
+Story ending: Halfway to her destination a part of the blade broke and flew off.
+Options: When Gina left it started raining.
+Gina went to get them replaced.",When Gina left it started raining.,abductive
+2b422f00-ce80-4c2e-bbc6-c2bc65a38588-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Abbey and her family were on a trip.
+Story ending: Then, they went to bed.
+Options: Abbey's family were all tired when they first arrived, so they stopped at a motel.
+Abbey and her friends made camp and a fire.","Abbey's family were all tired when they first arrived, so they stopped at a motel.",abductive
+4b861195-9968-4c6e-bef0-c85594bc1cf5-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Debby lost her debit card.
+Story ending: She got a new one in about a week.
+Options: Debby called years later to credit card company.
+Debby called her debit card provider and asked for a new one.",Debby called her debit card provider and asked for a new one.,abductive
+a54adc68-e0be-4248-ac8f-1acb35f77164-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: The battle raged across the castle's interior.
+Story ending: They were all in danger now.
+Options: The royals fled to another country.
+As they retreated, the soldiers drew near to the king.","As they retreated, the soldiers drew near to the king.",abductive
+e0387b73-db3c-4a8f-96e3-5e9b199de0ba-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Janice came across a fire alarm sign in the hallway.
+Story ending: Everyone was evacuated towards the front of the field.
+Options: Janice saw the fire alarm was out of order.
+Janice pulled the fire alarm and ran away.",Janice pulled the fire alarm and ran away.,abductive
+71700fef-d27f-4841-b38f-34ef8ce3ea91-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Johnny bought an entire extra large pizza for himself.
+Story ending: He had the worst pizza hangover the next morning.
+Options: He was full after eating half of it, but he kept eating.
+Johnny mountain each savory bite.","He was full after eating half of it, but he kept eating.",abductive
+9a4f73d1-09d0-4cb0-bccd-0e543d6ef984-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Gina had a cool new day bed.
+Story ending: But she knew her's was the best.
+Options: Gina's friends didn't want day beds.
+Gina's friend bragged about her own bed.",Gina's friend bragged about her own bed.,abductive
+c5f69646-71c5-432b-807f-0082df8e6c14-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: The Jenner Family went to the family ski house every winter.
+Story ending: Now the Jones family no longer goes to the ski house.
+Options: The Jenners sold the house to the Joneses.
+The Jenners bought the house from the Joneses.",The Jenners bought the house from the Joneses.,abductive
+eeba73c7-ebe6-46d0-9dfe-939e794a90b71,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Neil had just arrived in Paris.
+Story ending: Neil felt very happy and satisfied that he'd been able to visit.
+Options: Neil had a good time exploring the airport.
+Neil had always wanted to go to Paris.",Neil had always wanted to go to Paris.,abductive
+7e890b79-8562-4a6a-bf77-529ee329742a-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Adam forgot his lunch at home.
+Story ending: Adam was happy at his friend's generosity.
+Options: His friends felt bad and gave them some of their food.
+Adam's friends ate lunch.",His friends felt bad and gave them some of their food.,abductive
+2406943f-8a63-496d-8585-8ec3abac0f491,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Amy wanted to get healthy.
+Story ending: Amy was determined to gain weight.
+Options: Amy decided that she should eat more protein and work out.
+Amy has struggled with eating disorders all her life.",Amy decided that she should eat more protein and work out.,abductive
+a5951fe2-62f3-43fc-9572-f038ba48b0f52,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Amy called her internet provider for help.
+Story ending: Amy hung up the phone angrily.
+Options: The internet provider representative was rude to phone.
+The internet provider told Amy that they could not resolve her problem.",The internet provider told Amy that they could not resolve her problem.,abductive
+46d96edd-0f98-45d6-be86-e2be78bbaaa4-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: My sister and I went to bestbuy on black Friday
+Story ending: However, at the end it was worth it.
+Options: My sister and I waited two hours at Bestbuy.
+Everyone wore black hooded robes.",My sister and I waited two hours at Bestbuy.,abductive
+d5306a39-fdff-4ae2-986e-48e10e8c4822-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Megan grabbed her tools from her locker.
+Story ending: She wondered what secrets the large rock might contain.
+Options: Megan used her tools to repair a rock.
+Megan found a strange large rock in the locker.",Megan found a strange large rock in the locker.,abductive
+799693fb-aff0-4914-b720-d3141aa79316-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: My brother and I decided to go fishing.
+Story ending: Suddenly, I fell in a hole and hurt my ankle.
+Options: My sister didn't check to how strong the water was.
+We walked along the riverbank looking for a good spot.",We walked along the riverbank looking for a good spot.,abductive
+10e5de69-c935-4069-a0df-63078999422c-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: May's was grounded for burning her leg with a curling iron.
+Story ending: May had never even considered it.
+Options: Mary's mother told her she needed professional help.
+May's friend asked her to sneak out to go to school.",Mary's mother told her she needed professional help.,abductive
+006aa20e-51a7-48ea-8e1d-572f24cf15511,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I ordered a family meal at a Chinese restaurant.
+Story ending: I was happy we found a new favorite restaurant.
+Options: The meal was very delicious and flavorful.
+The food was delicious.",The food was delicious.,abductive
+680978d5-bbfd-4c2c-90f2-390faa12f663-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Gina's room in the basement was cooler than the rest of the house.
+Story ending: She sat near the door and read her book in the mostly dark room.
+Options: She stopped reading in the hot living room.
+Gina needed to read in a warm place.",She stopped reading in the hot living room.,abductive
+28d0f17b-4e9d-4a05-b902-21e1a8f53c62-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I used to hate the color yellow.
+Story ending: Now I love the color yellow because of the hot girl in the car!
+Options: im thinking about two grand.
+A hot girl in a yellow car asked me out..",A hot girl in a yellow car asked me out..,abductive
+60f50018-b792-4100-b909-4647bb641dc0-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: The director of the bell choir took out all the bells to tune them.
+Story ending: No other bells gave him a problem that day.
+Options: the director wanted everything to be perfect.
+Now they sounded worse.",the director wanted everything to be perfect.,abductive
+44098ac6-eaba-4bec-81f9-627458f960b3-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Johnny was wealthy and he liked Anita.
+Story ending: Anita divorced him, took half his wealth, and then married a poor man.
+Options: he asked Tammy on a date and the two eventually got married.
+Anita didn't like Johnny, but married him anyway.","Anita didn't like Johnny, but married him anyway.",abductive
+8ec15d43-6ae9-495f-99ca-a76f776e7695-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Becky wanted to impress her pals.
+Story ending: She walked along the road picking up rocks to fill the spaces.
+Options: Becks friends have a rock collection.
+The little stone house she had envisioned had big gaps.",Becks friends have a rock collection.,abductive
+fd33b1f3-83ad-4947-995e-9d1d69be059f-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Last Saturday, my wife went to a Christmas bazaar.
+Story ending: I hope we win some raffles.
+Options: My wife entered some raffles at the Christmas bazaar.
+My wife purchased the tickets to enter the bazaar.",My wife entered some raffles at the Christmas bazaar.,abductive
+07624665-53de-49cc-973c-040ade48b9aa-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Gina already had tears streaming down her face.
+Story ending: Gina was relieved she could finally cry in peace.
+Options: Gina ran and got away from everybody.
+Gina cried in front of her family.",Gina ran and got away from everybody.,abductive
+a3b3e0b2-59b4-4db5-80b8-eec47790e9f1-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: June was in a bad accident.
+Story ending: After several months she has much less of a limp.
+Options: June broke her finger in two places.
+June had to undergo much physical therapy.",June had to undergo much physical therapy.,abductive
+9ea7e913-c437-47e6-9b53-2bf8b324f7e2-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: A woman was walking outside of a mall.
+Story ending: People looked at her like she was crazy.
+Options: The woman was wearing professional clothes and fancy shoes.
+She thought she saw a crime taking place in the parking lot, but she was wrong.","She thought she saw a crime taking place in the parking lot, but she was wrong.",abductive
+6aa7c36c-409e-4430-8052-d9d918549933-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I used to bike to work every day.
+Story ending: I cannot ride anymore, so I don't have bike flat tires.
+Options: I have since got a better bike to commute to work.
+I have since got a car to commute to work.",I have since got a car to commute to work.,abductive
+54a017f6-839f-4ce9-a641-e7359148c0e7-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Sprint is my neighbor's dog.
+Story ending: He wouldn't even leave the yard when I called him over!
+Options: Sprint is very well behaved.
+Sprint loves me more than my neighbor, he's not loyal.",Sprint is very well behaved.,abductive
+e84ac360-f94e-447e-a8b3-04d905e677631,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Mag had a night with no kids or husband.
+Story ending: May was very relaxed.
+Options: Mag had a bottle of wine and watched a movie.
+Mag's husband decided to take a nice long bubble bath.",Mag had a bottle of wine and watched a movie.,abductive
+7bd16612-de11-4c7c-87b1-ed79631d8f882,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Earl is a grandfather for the first time today!
+Story ending: His daughter now adds to it, for her daughter's college.
+Options: Earl adds some money to her college fund.
+Earl started a fund for himself.",Earl adds some money to her college fund.,abductive
+3f8897a3-ffd4-49be-924c-7e096c93dfd2-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Mr Adams had to buy gifts for his son.
+Story ending: He decided if his son doesn't like one, he'll like the other.
+Options: Mr. Adams bought two different gifts when he couldn't decide.
+He saw two crutches he liked but didn't know which to buy, he got both.",Mr. Adams bought two different gifts when he couldn't decide.,abductive
+2d3473c4-76a8-48da-9c18-7ed1edae395a1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Joy's boyfriend took her to play putt putt.
+Story ending: He laughed and asked for a re-match.
+Options: Joy's boyfriend let her win.
+was not very happy.",Joy's boyfriend let her win.,abductive
+2afa7dc5-db4d-45ab-a818-95ec5b4dadfd-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I suddenly realized how hungry I was!
+Story ending: I ate that sandwich in about 30 seconds!
+Options: I made a huge steak.
+I remembered I had packed a sandwich for lunch.",I remembered I had packed a sandwich for lunch.,abductive
+8370ff9a-a31e-4a9a-a146-364689443d9f-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Sam asked Mary on a date.
+Story ending: Sam was so happy to hear her news!
+Options: Mary left a message accepting.
+Sam found out he is going to her college next fall.",Mary left a message accepting.,abductive
+4cffe416-8712-4a03-a9f7-1d38a4d7a515-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: My sister was annoying me by shouting.
+Story ending: She ran for a towel and started to put pressure on the spot.
+Options: I poured water on the floor.
+So I went to see what was wrong and she had stood up.",I poured water on the floor.,abductive
+6a9144cc-5907-4f06-92c5-cfb90fc7c13b-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Tom needed to get a bank account.
+Story ending: He signed up with TD.
+Options: Tom had a bank account.
+Tom searched for major banks in his area.",Tom searched for major banks in his area.,abductive
+9e45843a-2215-42e1-af53-1d0e262ca9c6-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Amy's friend Beth was having a baby.
+Story ending: Beth was so happy since she thought no one cared to give her a shower.
+Options: Amy didn't want to bother Beth.
+Amy threw Beth a shower.",Amy threw Beth a shower.,abductive
+924d215d-7793-4cc5-af34-d680d525e8f5-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Alex really wanted to play a video game.
+Story ending: Both kids ended up getting in trouble and having an awful day.
+Options: Alex and his friend didn't skipped school to play Xbox.
+Alex didn't have any money so he and his friend tried to rob the store owner.",Alex didn't have any money so he and his friend tried to rob the store owner.,abductive
+94438e3b-fb7d-43d5-9a67-89575a448108-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Ana had always wanted to dance ballet.
+Story ending: Ana decided ballet was not for her, after all.
+Options: Ana decided to take ballet lessons.
+Ana could not find a ballet class.",Ana decided to take ballet lessons.,abductive
+264adc23-fcef-4d92-9ca9-739829c050d7-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: There were five of us that summer, and we decided to start a club.
+Story ending: That summer was one of secrets, games and adventures because of CHAMP.
+Options: We took the last letter of each of our names and called our club CHAMP.
+We found CHAMP a stray hound dog.",We found CHAMP a stray hound dog.,abductive
+49135d82-f202-4c67-98b9-0142ce2b601b-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Two days ago I dropped my laundry of at the laundromat to be cleaned.
+Story ending: I paid her and got my laundry like I wanted.
+Options: I wanted all my laundry to be sold.
+She forgot to use a fabric softener.",She forgot to use a fabric softener.,abductive
+86ca0b0e-62e1-4fc3-88a0-a692840a65a3-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Ruth was painting her bedroom.
+Story ending: It added more color and fun to her house.
+Options: She chose the colors hot pink and neon blue.
+She painted bunch of white colors.",She chose the colors hot pink and neon blue.,abductive
+1a76e141-7f81-4bc8-a500-117b65e9f081-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Dave is gay.
+Story ending: He was very happy.
+Options: His parents demanded conversion therapy.
+He fell in love with another man, that loved him back.","He fell in love with another man, that loved him back.",abductive
+45d209e3-d3e2-4b47-91f1-2542f8dd7ea3-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Po's internet wasn't working.
+Story ending: And when Po used his computer next, the internet was working again.
+Options: A company representative had Po come out.
+The modem was unplugged by mistake and reconnected.",The modem was unplugged by mistake and reconnected.,abductive
+d3cc299d-f640-4fd2-a70b-124523ca2938-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: The lead actor in our school play was afraid of rabbits.
+Story ending: My bunny bit the actors hand and he is now even more afraid of them.
+Options: I brought a rabbit with rabies to school to help him overcome his fears.
+I brought my rabbit to school to help him overcome his fears.",I brought my rabbit to school to help him overcome his fears.,abductive
+b5493cf0-7f4f-4836-ad19-780f72d12d80-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: A guy confronted Lucy.
+Story ending: He immediately walked away.
+Options: Lucy was so uncomfortable.
+Lucy turned around and complimented the guy.",Lucy was so uncomfortable.,abductive
+639bdab3-0f2d-41e2-9b77-f3ffef5a12ae-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Billy didn't like vegetables.
+Story ending: He realized vegetables tasted better when you grew them yourself.
+Options: Billy helped his grandson plant a vegetable garden that spring.
+Billy had only tried them from a can.",Billy had only tried them from a can.,abductive
+c0155588-fbfa-4eba-94d5-1855bdd0b116-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Kim was in a pie making contest at the county fair.
+Story ending: Kim was awarded the blue ribbon for her amazing pie skills.
+Options: Kim worked hard on her strawberry pie.
+Pies had been making Kim her entire life.",Kim worked hard on her strawberry pie.,abductive
+7b20844e-66b6-4d96-8a22-9c1ab62b50c7-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Tim's dog like to chase things.
+Story ending: Tim's dog doesn't chase the bird anymore.
+Options: Tim's dog was pecked at by a large bird.
+Tim's dog chased a large bird.",Tim's dog was pecked at by a large bird.,abductive
+f61d1b74-6cb7-4491-877e-d91f931b6872-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: After junior prom my boyfriend and I went to Wisconsin Dells.
+Story ending: His dad finally arrived with gas and we arrived home very late.
+Options: Her dad came very late to take us.
+On the way to our car ran out of gas.",Her dad came very late to take us.,abductive
+006aa20e-51a7-48ea-8e1d-572f24cf15512,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I ordered a family meal at a Chinese restaurant.
+Story ending: I told the manager I wanted to file a complaint.
+Options: I found a fly in my salad I was eating.
+The waiter was nice and the food was cold.",I found a fly in my salad I was eating.,abductive
+e877451e-ab99-49c9-a4c4-e9c67b01be3d-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Desi wanted her own aquarium very badly.
+Story ending: Soon she added more fish and bought a larger tank!
+Options: Desi bought a small fish tank and two fish.
+desi bought a big fish tank.",Desi bought a small fish tank and two fish.,abductive
+ebbd89b9-bc1a-48b4-8488-f27efb19c503-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Liv worked as a construction worker.
+Story ending: Now she lives on disability, and her boss had to close his company.
+Options: Liv hit something at work.
+One day at work she got in the construction accident.",One day at work she got in the construction accident.,abductive
+8b7ab48c-435b-49f3-926d-74cd9a50fa412,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Emily woke up early to get ready for school last Monday.
+Story ending: She finished her latest book.
+Options: Emily decided to buy a new book.
+Emily read instead of getting ready for school.",Emily read instead of getting ready for school.,abductive
+019b50e7-c9f8-45b9-baee-04ed7d9f79b6-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Jack notices that he feels unhappy whenever the weather becomes cold.
+Story ending: When his trip is over, he is happy that he escaped the winter.
+Options: Jack goes on vacation to Michigan.
+He will never go to alaska for vacation again.",He will never go to alaska for vacation again.,abductive
+825d2f2c-4535-4a96-884a-6ff9451bf8ca-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Jane picked up her phone since she got a text.
+Story ending: We ended up reaching an agreement.
+Options: Jane got a text from her client.
+Adam text Jane about the party.",Jane got a text from her client.,abductive
+8a054012-7a59-4815-b839-7edbfd58e8f2-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: My mom isn't that old.
+Story ending: My mom felt like she got away with a crime.
+Options: My mom looked like she was 10 years older than she was.
+My mom oversped but was let off.",My mom oversped but was let off.,abductive
+56d83465-4414-4f3b-a01c-007bb70f7068-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Maxine wants to have slightly darker skin.
+Story ending: Maxine is so happy that she no longer looks so pale.
+Options: She decided to buy some self tanner at the drug store.
+Maxine researched a treatment.",She decided to buy some self tanner at the drug store.,abductive
+5b554b6e-d80b-429c-8930-02c0f866eeb8-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Tom was going to ask Ann to marry him.
+Story ending: He popped the question and is now married to Ann.
+Options: so tom decided to take ann out for dinner .
+He was nervous, because he was already married.",so tom decided to take ann out for dinner .,abductive
+76db5db9-45f4-4c30-8867-15ff1915b8ab-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Bob was playing darts with his friends.
+Story ending: Bob was able to find a bandage for his friend's arm.
+Options: Bob was careless and threw a dart that hit his friend.
+Bob's friend hit him in the arm with a dart.",Bob was careless and threw a dart that hit his friend.,abductive
+3a2d355e-38e1-42c2-8485-ff18d34be864-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Jon brought his dog Barney to his parents' beach house.
+Story ending: He finally found Barney digging holes in the sand at the beach.
+Options: Barney escaped and Jon went looking for him.
+He lost him in the way.",Barney escaped and Jon went looking for him.,abductive
+88be5301-e6ee-4b1f-95c5-4f0d28b45e79-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Phil was a senior in high school.
+Story ending: He had been accepted into his top choice!
+Options: Phil was worried about getting into college.
+Phil applied to a university.",Phil was worried about getting into college.,abductive
+b5157549-1220-4ca6-a18d-da1b87ec3ece-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: George had gone on a date with Ann and took her back to his house.
+Story ending: George was overwhelmed from her crying and said he had to go to sleep.
+Options: From drinking, Ann began to reminisce about the past.
+Ann found out her dog knew George.","From drinking, Ann began to reminisce about the past.",abductive
+3517be01-1d7a-4800-bf4c-c6461cc4efdf-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Michael went to the store with his dad to get new shoes.
+Story ending: His dad asked him if he thought they had his size as he walked in.
+Options: The store did not seem to have a good selection of sizes.
+The store had a huge selection of sizes.",The store did not seem to have a good selection of sizes.,abductive
+3b32b317-8311-47ef-83a7-d2594c8719c8-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Josh wanted to ask out the girl in his chemistry class.
+Story ending: The girl was surprised and decided to date Josh.
+Options: When Josh asked the girl from chemistry class out, she admitted to having a crush on him.
+Josh got up the courage and the girl asked him out.","When Josh asked the girl from chemistry class out, she admitted to having a crush on him.",abductive
+04254d76-c179-4096-b011-46b0f92b07ad-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Eric knew his mom and dad would soon divorce.
+Story ending: The therapist helped Eric through his parent's divorce.
+Options: The thought of the divorce made Eric very sad.
+A therapist went to Eric for counseling.",The thought of the divorce made Eric very sad.,abductive
+3e13600e-4a0f-42dd-876d-9741076fc4651,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Pan tried to hit me for no apparent reason.
+Story ending: Pan finally stopped.
+Options: Pan yelled at me to stop hitting him.
+Pan wanted me to explain the problem.",Pan wanted me to explain the problem.,abductive
+0f797de2-3d82-46d1-a370-c278a36ad7852,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Megan has been struggling with a drug habit for years.
+Story ending: When she arrived, she did drugs all day.
+Options: Megan moves in with a junkie friend.
+Megan decided to go to a rehabilitation center.",Megan moves in with a junkie friend.,abductive
+c0b763f6-cab4-4f71-b327-809fdd16e20c-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: George wanted his own house but did not have the money to buy one.
+Story ending: Three years later George drove to his land to live in his own house.
+Options: George saved three years for land and a house.
+George saved three days for land and a house.",George saved three years for land and a house.,abductive
+c321e4ae-2258-4b2a-933c-c2bd34fbe3aa-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Ella had terrible dreams and woke crying every night.
+Story ending: After she got Ted, she never had another nightmare!
+Options: Then Ella's mom got her a bean to hold nightly.
+Ella try to find a solution for her nightmares.",Ella try to find a solution for her nightmares.,abductive
+03740948-4375-43bc-a4fa-a4722a8f6a18-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Jesse wanted to change her hair color.
+Story ending: Jessie dyed her hair red.
+Options: Jesse went to a hairdresser and asked for a dollar.
+She thought it might be a change.",She thought it might be a change.,abductive
+69b30472-b8a9-4104-b43c-c070b378a0d0-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: We decided to get married on the beach.
+Story ending: We ended our day with a dip in the cool ocean.
+Options: All of our friends joined us as we got married.
+We had our wedding night in the sand.",All of our friends joined us as we got married.,abductive
+027408de-1e4b-43c6-805f-6e3ecce5aa651,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: It is usually calm and warm in the morning, in Florida.
+Story ending: A tornado came within 2 blocks of the house!
+Options: But today a violent storm appeared with warning.
+It felt like something was off that morning.",It felt like something was off that morning.,abductive
+e5f47029-5bf9-41f8-87be-4f00da25f1a7-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Beth had a little grey kitten.
+Story ending: It became afraid and hissed, so Beth never did that again.
+Options: Beth wore a smile on her face and showed it to the kitten.
+Beth wore a scary mask and showed it to the kitten.",Beth wore a scary mask and showed it to the kitten.,abductive
+55ed9252-3c85-4d9d-83cb-f85247a0e06c-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I decided to order a pizza.
+Story ending: My mouth was burning and I cried!
+Options: The pizza was right out of the oven.
+I immediately bit into my hot dog.",The pizza was right out of the oven.,abductive
+385c0602-b24b-45b4-b07e-0fe47f541362-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Andy hated being hot.
+Story ending: Andy missed out on a lot because he hated hot weather.
+Options: what doi youy want to know.
+Andy's friends went to the beach.",Andy's friends went to the beach.,abductive
+ab847696-a5db-470d-bb3f-bce9983ee603-1,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Steven needed to shovel his driveway, but he couldn't find his shovel.
+Story ending: He shoveled her driveway, too!
+Options: Steven's neighbor gave him her shovel.
+Steven asked his dad to lend him one.",Steven's neighbor gave him her shovel.,abductive
+ff6a9be8-35fd-4371-9337-0a487aa6bcbd2,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: Rex missed his high school days of being a gymnast.
+Story ending: Rex did his first ever cartwheel that day.
+Options: Rex remembered that he could always do a cartwheel being a gymnast.
+Rex remembered that he never could do a cartwheel despite being a gymnast.",Rex remembered that he never could do a cartwheel despite being a gymnast.,abductive
+cb29c4b6-9cf2-4899-a296-9c2bf1100da61,"Based on the beginning and the ending of a story, please choose the option that is more likely than the other.
+Story beginning: I was at the laundromat last Sunday.
+Story ending: I left her alone but kept sneaking little glances.
+Options: I saw a service dog inside.
+I saw a service dog inside a washer.",I saw a service dog inside.,abductive
